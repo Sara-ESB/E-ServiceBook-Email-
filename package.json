@@ -1,0 +1,11 @@
+{
+  "name": "esb-email-platform",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "imapflow": "^1.0.164",
+    "nodemailer": "^6.9.16"
+  }
+}
